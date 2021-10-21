@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.session{
+  border:5px solid black;
+  width: 1000px;
+  text-align: center;
+  margin:auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
